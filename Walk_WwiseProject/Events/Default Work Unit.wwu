@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Ambiance_Foret" ID="{E695284D-5E06-4DF7-BF4D-F06BD03AAE45}">
+					<ChildrenList>
+						<Action Name="" ID="{59D86C07-9EB8-4FF5-97CA-EF7141B43005}" ShortID="202989319">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambiance_Foret" ID="{43688BD9-8848-4FF3-A9FB-73DF15F0EDBF}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Esprits_Sons" ID="{AA3086EB-2100-4CB6-9691-CAC05B1DB3BF}">
+					<ChildrenList>
+						<Action Name="" ID="{7A97B9A6-56FC-4A5A-9CB4-85DE2E019909}" ShortID="618970094">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Esprit_Sons" ID="{CAC1F3A4-0418-4AA3-AA72-83DC70DDC701}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Vent_Ville" ID="{404A750D-E74A-4936-AF7B-99CC534EC0D4}">
+					<ChildrenList>
+						<Action Name="" ID="{8E4DF99A-3EB1-4F12-9BF2-25DD64F15DED}" ShortID="220133812">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambiance_Ville" ID="{44383E0C-3869-496E-B4C3-60F50F72DFB2}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Metal_claque" ID="{D96ADA0C-08F3-4EDF-A2FE-CCC74A2D9ADF}">
+					<ChildrenList>
+						<Action Name="" ID="{94078EF4-7713-40AA-ADE0-EF6E7B4584E8}" ShortID="87575147">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambiance_Ville_Reverbe" ID="{35F1FF2F-20F8-4B48-8F65-2904AD157646}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Neon_Buzz" ID="{662FD6C7-04D2-491E-9CBE-6854E860D42B}">
+					<ChildrenList>
+						<Action Name="" ID="{03EB01F0-2189-44BE-9649-F05B71215DEC}" ShortID="63908384">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Neon_Buzz" ID="{28F33D30-F9FF-4249-AC9D-0FE68F503B66}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Amb_Ville_Basse" ID="{1021305D-57E6-40C5-BCC7-2AB9C3690D05}">
+					<ChildrenList>
+						<Action Name="" ID="{8C0C45FD-6A3B-425C-8DE2-88A318B5F3F7}" ShortID="720985458">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Amb_Ville_Basse" ID="{5B0DD917-9F5E-4D00-80C1-F9EAAB27356D}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Esprit_Cri_Fuite" ID="{64AC6DC9-9B63-4AB1-878B-B24A47F65CD1}">
+					<ChildrenList>
+						<Action Name="" ID="{44DDA69E-650C-4994-BD8A-A3C2CC690DD8}" ShortID="841631525">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Esprit_Cri_Fuite" ID="{1B4B375D-7459-4AC6-8D97-3CA133F4CE42}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Esprit_Cri_Charge" ID="{570F0B16-DF73-42B5-8550-596A463A533A}">
+					<ChildrenList>
+						<Action Name="" ID="{9C3B3B2B-FA75-47A8-A6F5-136C79D23883}" ShortID="446907553">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Esprit_Cri_Charge" ID="{9F77E112-90A3-4B07-8F92-95AFA1A131CE}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambiance_Ville_Reverbe" ID="{909E2F8D-06F9-413B-96C9-0D1A9FDB2FC2}">
+					<ChildrenList>
+						<Action Name="" ID="{B93AFAD9-2D3A-4325-B184-6A8B72C03A46}" ShortID="894771165">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambiance_Ville_Reverbe" ID="{35F1FF2F-20F8-4B48-8F65-2904AD157646}" WorkUnitID="{F3E98601-8349-4007-8E87-52C8967A01C0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

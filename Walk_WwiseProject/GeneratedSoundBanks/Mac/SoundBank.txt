@@ -1,0 +1,32 @@
+Event	ID	Name			Wwise Object Path	Notes
+	81378493	Amb_Ville_Basse			\Default Work Unit\Amb_Ville_Basse	
+	310250212	Metal_claque			\Default Work Unit\Metal_claque	
+	1489494272	Esprit_Cri_Charge			\Default Work Unit\Esprit_Cri_Charge	
+	1493666495	Neon_Buzz			\Default Work Unit\Neon_Buzz	
+	2861736073	Esprit_Cri_Fuite			\Default Work Unit\Esprit_Cri_Fuite	
+	3465332228	Ambiance_Ville_Reverbe			\Default Work Unit\Ambiance_Ville_Reverbe	
+	3666765885	Esprits_Sons			\Default Work Unit\Esprits_Sons	
+	3955284397	Vent_Ville			\Default Work Unit\Vent_Ville	
+	4014099578	Ambiance_Foret			\Default Work Unit\Ambiance_Foret	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	224772895	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Ville_Reverbe\Claque_Metal\Silence_2s\Wwise Silence	
+	406178647	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\New Random Container\Silence_2s\Wwise Silence	
+	699542870	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\New Random Container\Silence_4s\Wwise Silence	
+	871352622	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\New Random Container\Silence_8s\Wwise Silence	
+	931861208	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Sons\Silence_2s\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	100985392	Vent_Base	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Vent_Base_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\Vent_Base		1058464
+	118512991	Artefact_Sonore_01	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Artefact_Sonore_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Sons\Artefact_Sonore_01		441064
+	212351745	Claque_Metal_03	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Claque_Metal_03_14D9382D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Ville_Reverbe\Claque_Metal\Claque_Metal_03		1282112
+	241794008	Cri_esprit	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Cri_esprit_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Cri_Fuite\Cri_esprit		1852264
+	324106030	Claque_Metal_02	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Claque_Metal_02_14D9382D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Ville_Reverbe\Claque_Metal\Claque_Metal_02		1187904
+	408956377	Claque_Metal_01	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Claque_Metal_01_14D9382D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Ville_Reverbe\Claque_Metal\Claque_Metal_01		1278016
+	428672539	Amb_Ville_Basse	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Amb_Ville_Basse_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Amb_Ville_Basse\Amb_Ville_Basse		790600
+	574949042	Coup_de_Vent_Moyen	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Coup_de_Vent_Moyen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\New Random Container\Coup_de_Vent_Moyen		793864
+	876982231	Vent_Ville_01	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Vent_Ville_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Ville_Reverbe\Vent_Ville_01		2028664
+	961167987	Cri_Esprit_Guerre	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Cri_Esprit_Guerre_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Cri_Charge\Cri_Esprit_Guerre		705664
+	1027800447	Artefact_Sonore_02	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Artefact_Sonore_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Sons\Artefact_Sonore_02		264664
+	1055988330	Electric_Buzz	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Electric_Buzz_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Neon_Buzz\Electric_Buzz		331092
+

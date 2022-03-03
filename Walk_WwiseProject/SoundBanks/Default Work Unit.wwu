@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0E934AC7-FD8B-4171-8980-D11AD450A277}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{0E934AC7-FD8B-4171-8980-D11AD450A277}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="SoundBank" ID="{017DE6AB-53A1-48ED-A2D2-F66DE84A90E8}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Amb_Ville_Basse" ID="{1021305D-57E6-40C5-BCC7-2AB9C3690D05}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambiance_Ville_Reverbe" ID="{909E2F8D-06F9-413B-96C9-0D1A9FDB2FC2}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Esprit_Cri_Charge" ID="{570F0B16-DF73-42B5-8550-596A463A533A}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Neon_Buzz" ID="{662FD6C7-04D2-491E-9CBE-6854E860D42B}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Vent_Ville" ID="{404A750D-E74A-4936-AF7B-99CC534EC0D4}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Esprit_Cri_Fuite" ID="{64AC6DC9-9B63-4AB1-878B-B24A47F65CD1}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Esprits_Sons" ID="{AA3086EB-2100-4CB6-9691-CAC05B1DB3BF}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambiance_Foret" ID="{E695284D-5E06-4DF7-BF4D-F06BD03AAE45}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Metal_claque" ID="{D96ADA0C-08F3-4EDF-A2FE-CCC74A2D9ADF}" WorkUnitID="{142D57F6-F5F5-4D5E-A13C-2C7CDB63D909}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

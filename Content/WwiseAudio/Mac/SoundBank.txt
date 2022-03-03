@@ -1,0 +1,18 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3666765885	Esprits_Sons			\Default Work Unit\Esprits_Sons	
+	4014099578	Ambiance_Foret			\Default Work Unit\Ambiance_Foret	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	328526807	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Sons\Silence_8s\Wwise Silence	
+	406178647	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\New Random Container\Silence_2s\Wwise Silence	
+	518964429	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Sons\Silence_4s\Wwise Silence	
+	699542870	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\New Random Container\Silence_4s\Wwise Silence	
+	871352622	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\New Random Container\Silence_8s\Wwise Silence	
+	936667364	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Sons\Silence_2s\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	100985392	Vent_Base	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Vent_Base_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\Vent_Base		1058464
+	118512991	Artefact_Sonore_01	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Artefact_Sonore_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Sons\Artefact_Sonore_01		441064
+	574949042	Coup_de_Vent_Moyen	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Coup_de_Vent_Moyen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance_Foret\New Random Container\Coup_de_Vent_Moyen		793864
+	1027800447	Artefact_Sonore_02	F:\Productions\MASTER\M2\Projet\Unreal\Walk\Walk_WwiseProject\.cache\Mac\SFX\Artefact_Sonore_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Esprit_Sons\Artefact_Sonore_02		264664
+

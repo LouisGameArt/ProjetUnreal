@@ -1,0 +1,236 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "F:\\Productions\\MASTER\\M2\\Projet\\Unreal\\Walk\\Walk_WwiseProject\\",
+   "SourceFilesRoot": "F:\\Productions\\MASTER\\M2\\Projet\\Unreal\\Walk\\Walk_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "F:\\Productions\\MASTER\\M2\\Projet\\Unreal\\Walk\\Walk_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "F:\\Productions\\MASTER\\M2\\Projet\\Unreal\\Walk\\Walk_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "2591535158",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "1661994096",
+    "GUID": "{017DE6AB-53A1-48ED-A2D2-F66DE84A90E8}",
+    "Language": "SFX",
+    "Hash": "4037101853",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\SoundBank",
+    "ShortName": "SoundBank",
+    "Path": "SoundBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "81378493",
+      "Name": "Amb_Ville_Basse",
+      "ObjectPath": "\\Events\\Default Work Unit\\Amb_Ville_Basse",
+      "GUID": "{1021305D-57E6-40C5-BCC7-2AB9C3690D05}",
+      "MaxAttenuation": "1500.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "428672539",
+        "Language": "SFX",
+        "ShortName": "Amb_Ville_Basse.wav",
+        "Path": "SFX\\Amb_Ville_Basse_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4014099578",
+      "Name": "Ambiance_Foret",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiance_Foret",
+      "GUID": "{E695284D-5E06-4DF7-BF4D-F06BD03AAE45}",
+      "MaxAttenuation": "2000.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "100985392",
+        "Language": "SFX",
+        "ShortName": "Vent_Base.wav",
+        "Path": "SFX\\Vent_Base_D79FB2B7.wem"
+       },
+       {
+        "Id": "574949042",
+        "Language": "SFX",
+        "ShortName": "Coup_de_Vent_Moyen.wav",
+        "Path": "SFX\\Coup_de_Vent_Moyen_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3465332228",
+      "Name": "Ambiance_Ville_Reverbe",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiance_Ville_Reverbe",
+      "GUID": "{909E2F8D-06F9-413B-96C9-0D1A9FDB2FC2}",
+      "MaxAttenuation": "1700.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "212351745",
+        "Language": "SFX",
+        "ShortName": "Claque_Metal_03.wav",
+        "Path": "SFX\\Claque_Metal_03_14D9382D.wem"
+       },
+       {
+        "Id": "324106030",
+        "Language": "SFX",
+        "ShortName": "Claque_Metal_02.wav",
+        "Path": "SFX\\Claque_Metal_02_14D9382D.wem"
+       },
+       {
+        "Id": "408956377",
+        "Language": "SFX",
+        "ShortName": "Claque_Metal_01.wav",
+        "Path": "SFX\\Claque_Metal_01_14D9382D.wem"
+       },
+       {
+        "Id": "876982231",
+        "Language": "SFX",
+        "ShortName": "Vent_Ville.wav",
+        "Path": "SFX\\Vent_Ville_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1489494272",
+      "Name": "Esprit_Cri_Charge",
+      "ObjectPath": "\\Events\\Default Work Unit\\Esprit_Cri_Charge",
+      "GUID": "{570F0B16-DF73-42B5-8550-596A463A533A}",
+      "MaxAttenuation": "2000.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "4.000000",
+      "DurationMax": "4.000000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "961167987",
+        "Language": "SFX",
+        "ShortName": "Cri_Esprit_Guerre.wav",
+        "Path": "SFX\\Cri_Esprit_Guerre_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2861736073",
+      "Name": "Esprit_Cri_Fuite",
+      "ObjectPath": "\\Events\\Default Work Unit\\Esprit_Cri_Fuite",
+      "GUID": "{64AC6DC9-9B63-4AB1-878B-B24A47F65CD1}",
+      "MaxAttenuation": "6000.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "10.500000",
+      "DurationMax": "10.500000",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "241794008",
+        "Language": "SFX",
+        "ShortName": "Cri_esprit.wav",
+        "Path": "SFX\\Cri_esprit_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3666765885",
+      "Name": "Esprits_Sons",
+      "ObjectPath": "\\Events\\Default Work Unit\\Esprits_Sons",
+      "GUID": "{AA3086EB-2100-4CB6-9691-CAC05B1DB3BF}",
+      "MaxAttenuation": "3000.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "118512991",
+        "Language": "SFX",
+        "ShortName": "Artefact_Sonore_01.wav",
+        "Path": "SFX\\Artefact_Sonore_01_10C4C929.wem"
+       },
+       {
+        "Id": "1027800447",
+        "Language": "SFX",
+        "ShortName": "Artefact_Sonore_02.wav",
+        "Path": "SFX\\Artefact_Sonore_02_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "310250212",
+      "Name": "Metal_claque",
+      "ObjectPath": "\\Events\\Default Work Unit\\Metal_claque",
+      "GUID": "{D96ADA0C-08F3-4EDF-A2FE-CCC74A2D9ADF}",
+      "MaxAttenuation": "1700.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "212351745",
+        "Language": "SFX",
+        "ShortName": "Claque_Metal_03.wav",
+        "Path": "SFX\\Claque_Metal_03_14D9382D.wem"
+       },
+       {
+        "Id": "324106030",
+        "Language": "SFX",
+        "ShortName": "Claque_Metal_02.wav",
+        "Path": "SFX\\Claque_Metal_02_14D9382D.wem"
+       },
+       {
+        "Id": "408956377",
+        "Language": "SFX",
+        "ShortName": "Claque_Metal_01.wav",
+        "Path": "SFX\\Claque_Metal_01_14D9382D.wem"
+       },
+       {
+        "Id": "876982231",
+        "Language": "SFX",
+        "ShortName": "Vent_Ville.wav",
+        "Path": "SFX\\Vent_Ville_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1493666495",
+      "Name": "Neon_Buzz",
+      "ObjectPath": "\\Events\\Default Work Unit\\Neon_Buzz",
+      "GUID": "{662FD6C7-04D2-491E-9CBE-6854E860D42B}",
+      "MaxAttenuation": "1000.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "1055988330",
+        "Language": "SFX",
+        "ShortName": "Electric_Buzz.wav",
+        "Path": "SFX\\Electric_Buzz_D79FB2B7.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3955284397",
+      "Name": "Vent_Ville",
+      "ObjectPath": "\\Events\\Default Work Unit\\Vent_Ville",
+      "GUID": "{404A750D-E74A-4936-AF7B-99CC534EC0D4}",
+      "MaxAttenuation": "1700.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "876982231",
+        "Language": "SFX",
+        "ShortName": "Vent_Ville.wav",
+        "Path": "SFX\\Vent_Ville_D79FB2B7.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
